@@ -1,0 +1,5 @@
+TII provides Visper on HuggingFace which is a Multilingual Audio-Visual Speech Recognition https://huggingface.co/tiiuae/visper
+
+https://lablab.ai/t/ai71-platform-guide
+
+https://discord.com/channels/877056448956346408/1257734325244526622
